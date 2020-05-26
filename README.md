@@ -37,9 +37,12 @@ matplotlib 3.2.1
 
 
 Files in the Repository
+
 Hovman Wang Project 1.ipynb - first version of code (initial review)
 
 Hovman Wang Project 1 updated 26052020 - second version of code: key changes:1. use of Doctrings for functions or where necessary 2. Use of Markdown cells to make section headings. No major changes to content of code
+
+
 
 
 data directory - i have not uploaded into this depository purely because of size, but the data can be located here: https://insights.stackoverflow.com/survey 2019 survey data used for Project

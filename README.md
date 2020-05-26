@@ -14,9 +14,7 @@ Coding as a Hobby: if you code for fun, are you coding as an Open Source Contrib
 
 Coding experience: more years of coding leads to more chances of contributing?
 
-Employment Status: being employed might give you more financial security and peace of mind, but simultaneously less time to be an Open 
-
-Sourcer — so which effect is more predominant?
+Employment Status: being employed might give you more financial security and peace of mind, but simultaneously less time to be an Open Sourcer — so which effect is more predominant?
 
 Salary: does making more money drive more active contribution as an Open Sourcer?
 
@@ -28,13 +26,19 @@ Requirements
 The project should run with libraries included in the Anaconda distribution. Following main libraries have been used:
 
 Python 3.7.6
+
 numpy 1.18.1
+
 pandas 1.0.3
+
 seaborn 0.10.1
+
 matplotlib 3.2.1
+
 
 Files in the Repository
 Hovman Wang Project 1.ipynb - first version of code (initial review)
+
 Hovman Wang Project 1 updated 26052020 - second version of code: key changes:1. use of Doctrings for functions or where necessary 2. Use of Markdown cells to make section headings. No major changes to content of code
 
 
